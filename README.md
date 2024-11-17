@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvhiremath26&label=Profile%20views&color=0e75b6&style=flat" alt="deepakhiremath" /> </p>
 
 - 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Test Automation, Generative AI
+- 🌱 I’m currently learning, Generative AI
 - 💞️ I’m looking to collaborate on Test Automation, Software Testing
 - 📫 How to reach me **dvhiremath26@gmail.com**
 
