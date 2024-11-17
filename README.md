@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Test Automation, Generative AI
 - 💞️ I’m looking to collaborate on Test Automation, Software Testing
 - 📫 How to reach me **dvhiremath26@gmail.com**
-<br>
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/deepak-hiremath-0017937a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak v hiremath" height="30" width="40" /></a>
